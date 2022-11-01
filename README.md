@@ -1,12 +1,17 @@
 ## 🖼 Playground - React
 
+### Kicked off: November 2022
+
 Welcome to my React playground to learn & test all things React.
 
 ### Learnings:
 
 • Using create-react-app to make a React project installs all the things:
+
 • Installs `node_modules` along with `package.json` and `package-lock.json` files.
-• Creates `.gitignore` and `README.md` iles
+
+• Creates `.gitignore` and `README.md` files
+
 • Creates a `src` folder
 
 ### Commands:
