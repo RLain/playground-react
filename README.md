@@ -6,24 +6,28 @@ Welcome to my React playground to learn & test all things React.
 
 ### Learnings:
 
-• Using create-react-app to make a React project installs all the things:
+L1. Using create-react-app to make a React project installs all the things:
 
-• Installs `node_modules` along with `package.json` and `package-lock.json` files.
+    • Installs `node_modules` along with `package.json` and `package-lock.json` files.
 
-• Creates `.gitignore` and `README.md` files
+    • Creates `.gitignore` and `README.md` files
 
-• Creates a `src` folder
+    • Creates a `src` folder
+
+L2. The `<div id="root"></div>` inside /public/index.html is the container for the React application.
 
 ### Commands:
 
-• npx create-react-app name-of-app
-•
+• npx create-react-app name-of-app -> Creates a new react application
+
+• See below under Getting Started section!
 
 ### Resources:
 
-• https://www.youtube.com/watch?v=Ke90Tje7VS0&ab_channel=ProgrammingwithMosh
+• https://www.youtube.com/watch?v=Ke90Tje7VS0&ab_channel=ProgrammingwithMosh (16:27 / 2:25:26)
 • https://github.com/facebook/create-react-app
 • https://reactjs.org/docs/create-a-new-react-app.html
+• https://babeljs.io/repl
 
 ---
 
