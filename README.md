@@ -8,11 +8,11 @@ Welcome to my React playground to learn & test all things React.
 
 L1. Using create-react-app to make a React project installs all the things:
 
-    • Installs `node_modules` along with `package.json` and `package-lock.json` files.
+a. Installs `node_modules` along with `package.json` and `package-lock.json` files.
 
-    • Creates `.gitignore` and `README.md` files
+b. Creates `.gitignore` and `README.md` files
 
-    • Creates a `src` folder
+c. Creates a `src` folder
 
 L2. The `<div id="root"></div>` inside /public/index.html is the container for the React application.
 
@@ -25,8 +25,11 @@ L2. The `<div id="root"></div>` inside /public/index.html is the container for t
 ### Resources:
 
 • https://www.youtube.com/watch?v=Ke90Tje7VS0&ab_channel=ProgrammingwithMosh (16:27 / 2:25:26)
+
 • https://github.com/facebook/create-react-app
+
 • https://reactjs.org/docs/create-a-new-react-app.html
+
 • https://babeljs.io/repl
 
 ---
